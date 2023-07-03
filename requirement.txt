@@ -1,0 +1,8 @@
+1. Html file
+2. Css file
+3. javascript file
+4. a database
+5. a server
+6. a better review
+7. a better collection 
+8. etc.
